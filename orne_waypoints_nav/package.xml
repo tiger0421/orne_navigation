@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>waypoint_nav</name>
+  <name>orne_waypoints_nav</name>
   <version>0.0.0</version>
   <description>The waypoint_nav package</description>
 
